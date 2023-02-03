@@ -1,0 +1,21 @@
+_id: req_f93108dd064543038cf851cfbbd4ff2f
+type: Request
+parentId: wrk_e5c091f7d9c546efab3449bdedd8b0c7
+modified: 1675326366709
+created: 1675326280105
+url: http://localhost:4000/coffees
+name: Get all coffees
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675323487091.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_86a4ec71ab4548008aafb13fa5d992aa
+type: Request
+parentId: wrk_e5c091f7d9c546efab3449bdedd8b0c7
+modified: 1675326359468
+created: 1675320694177
+url: http://localhost:4000/authentication/sign-in
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "email": "dev01@zing.me",
+        "password": "vStation!123"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1675323487141.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
